@@ -4,8 +4,14 @@
 .menu a{
     text-decoration: none;
 }
-.menu a:hover{
+.menu ul{
+    list-style: none;
+}
+.menu li a{
     color: black;
+}
+.menu a:hover{
+    color: aqua;
 }
 main p{
     margin-left: 500px;
