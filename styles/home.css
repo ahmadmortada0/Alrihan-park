@@ -1,24 +1,13 @@
 
-.icon{
-   
-    margin: 10px 20px;
-    width: 40px;
-}
-.icon img{
-    width: 40px;
-    height:40px ;
-    border-radius: 100px;
-}
-.title{
-    padding-left: 200px;
-}
-.title > h1{
-    font-family:fantasy;
-    color: darkgreen;
-}
 .menu{
     padding-left: 1200px;
 }
 .menu a{
     text-decoration: none;
+}
+.menu a:hover{
+    color: black;
+}
+aside p{
+    width :400px
 }
