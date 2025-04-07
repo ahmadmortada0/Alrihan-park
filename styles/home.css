@@ -1,6 +1,5 @@
-
 .menu{
-    padding-left: 1200px;
+    margin-left: 400px;
 }
 .menu a{
     text-decoration: none;
@@ -8,6 +7,16 @@
 .menu a:hover{
     color: black;
 }
-aside p{
-    width :400px
+main p{
+    margin-left: 500px;
+    width :500px
+}
+main img{
+    margin-left: 500px;
+}
+main a{
+    text-decoration: none;
+}
+main a:hover{
+    color: aqua;
 }
